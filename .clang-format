@@ -1,0 +1,8 @@
+Language: Cpp
+BasedOnStyle: LLVM
+ColumnLimit: 100
+IndentWidth: 2
+TabWidth: 2
+UseTab: Always
+AlignAfterOpenBracket: AlwaysBreak
+BreakBeforeBraces: Attach
